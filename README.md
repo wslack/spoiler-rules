@@ -1,10 +1,10 @@
 # A brief ruleset on good spoiler citizenship
 
 ## Introduction
-<text to go here>
+*text to go here*
 
 ##Defining Spoilers
-<text to go here>
+*text to go here*
 
 ## Movies
 No spoilers shall be posted on open platforms until after the second full weekend of a movie's release.
