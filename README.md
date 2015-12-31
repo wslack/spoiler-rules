@@ -1,7 +1,7 @@
 # A brief ruleset on good spoiler citizenship
 
 ## Introduction
-*text to go here*
+Created because of the lack of obvious existing resources. If you find one, this repo will be depreciated.
 
 ##Defining Spoilers
 *text to go here*
