@@ -7,7 +7,7 @@
 *text to go here*
 
 ## Movies
-No spoilers shall be posted on open platforms until after the second full weekend of a movie's release.
+No minor spoilers shall be posted on open platforms until after the second full weekend of a movie's release. No major spoilers until after the third weekend.
 
 ## Episodic Television
 No spoilers shall be posted until 48 hours after the episode airdate.
